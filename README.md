@@ -27,13 +27,5 @@ O público-alvo do ConectaServiços inclui:
 - Profissionais autônomos que desejam expandir sua base de clientes.
 
 ## Contribuidores 🧑‍💻👩‍💻🧑‍💻
-- Erick Duarte Bernat
-
-  Github: ErickBernat
-- Samuel Victor Santos Correa
-
-  GitHub: Samuel-045
-
-- Stella Cavalcante Arantes Hada
-
-  GitHub: stellahada
+| [<img src="https://avatars.githubusercontent.com/u/95144250?s=400&u=149cf20f52f4c096721d16967b22655f18e5c7f5&v=4" width=115><br><sub>Samuel Victor</sub>](https://github.com/Samuel-045) | [<img src="https://avatars.githubusercontent.com/u/138524660?v=4" width=115><br><sub>Erick Bernat</sub>](https://github.com/ErickBernat) | [<img src="https://avatars.githubusercontent.com/u/91349698?v=4" width=115><br><sub>Stella Hada</sub>](https://github.com/stellahada) | 
+| :---: | :---: | :---: |
